@@ -102,6 +102,14 @@
   <a href="https://instagram.com/shubhixion"><img src="https://img.shields.io/badge/Instagram-@shubhixion-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin:5px;"/></a>
   <a href="https://www.linkedin.com/in/shubhangam2005singh"><img src="https://img.shields.io/badge/LinkedIn-shubhangam2005singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:5px;"/></a>
   <a href="https://x.com/Shubhangam28"><img src="https://img.shields.io/badge/X-@Shubhangam28-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" style="margin:5px;"/></a>
+    <a href="https://codeforces.com/profile/shubhangam" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Codeforces-@Shubhangam_Singh-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"
+      alt="Codeforces"
+      style="margin:5px;"
+    />
+  </a>
+
 </p>
 
 ---
