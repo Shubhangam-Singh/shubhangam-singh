@@ -31,35 +31,117 @@
 
 ---
 
-## 🔧 Tech Stack & Tools
+<!-- Tech Stack & Tools with centered badges and gradient heading -->
+<h2 align="center" style="
+  background: linear-gradient(90deg, #6a11cb, #2575fc);
+  -webkit-background-clip: text;
+  color: transparent;
+">
+  🔧 Tech Stack & Tools
+</h2>
 
-#### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-#### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  <!-- Programming Languages -->
+  <img
+    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
+    alt="C"
+    style="margin:5px;"
+  />
+  <img
+    src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+    alt="C++"
+    style="margin:5px;"
+  />
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python"
+    style="margin:5px;"
+  />
+  <img
+    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+    alt="Java"
+    style="margin:5px;"
+  />
+  <img
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    alt="HTML5"
+    style="margin:5px;"
+  />
+  <img
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    alt="CSS3"
+    style="margin:5px;"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    alt="JavaScript"
+    style="margin:5px;"
+  />
 
-#### 🧠 Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  <br /><br />
 
-#### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+  <!-- Frontend -->
+  <img
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="React"
+    style="margin:5px;"
+  />
+  <img
+    src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white"
+    alt="TailwindCSS"
+    style="margin:5px;"
+  />
 
-#### 🛠️ Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studiocode&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=black)
+  <br /><br />
 
----
+  <!-- Backend -->
+  <img
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+    alt="Node.js"
+    style="margin:5px;"
+  />
+  <img
+    src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
+    alt="Flask"
+    style="margin:5px;"
+  />
+
+  <br /><br />
+
+  <!-- Database -->
+  <img
+    src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"
+    alt="MySQL"
+    style="margin:5px;"
+  />
+
+  <br /><br />
+
+  <!-- Tools & Platforms -->
+  <img
+    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+    alt="Linux"
+    style="margin:5px;"
+  />
+  <img
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git"
+    style="margin:5px;"
+  />
+  <img
+    src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studiocode&logoColor=white"
+    alt="VS Code"
+    style="margin:5px;"
+  />
+  <img
+    src="https://img.shields.io/badge/Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=black"
+    alt="Solana"
+    style="margin:5px;"
+  />
+
+</div>
+
 
 ## 📊 GitHub Stats
 
