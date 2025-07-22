@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=shubhangam-singh&theme=tokyonight" alt="Shubhangam's Contribution Streak"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=shubhangam-singh&theme=tokyonight" alt="Shubhangam's Contribution Streak"/>
 </p>
 
 ---
