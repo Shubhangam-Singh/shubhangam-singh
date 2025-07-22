@@ -56,7 +56,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhangam-singh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhangam-singh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Shubhangam's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangam-singh&layout=compact&theme=tokyonight" alt="Shubhangam's Top Languages"/>
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=shubhangam-singh&theme=tokyonight" alt="Shubhangam's Contribution Streak"/>
 </p>
 
 ---
