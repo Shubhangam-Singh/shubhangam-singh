@@ -30,15 +30,8 @@
 - ⚡ Fun fact: I’m an **ambivert** honing my communication skills  
 
 ---
-
-<!-- Tech Stack & Tools with centered badges and gradient heading -->
-<h2 align="center" style="
-  background: linear-gradient(90deg, #6a11cb, #2575fc);
-  -webkit-background-clip: text;
-  color: transparent;
-">
-  🔧 Tech Stack & Tools
-</h2>
+<!-- Tech Stack & Tools -->
+<h2 align="center">🔧 Tech Stack & Tools</h2>
 
 <div align="center">
 
@@ -79,7 +72,7 @@
     style="margin:5px;"
   />
 
-  <br /><br />
+  <br><br>
 
   <!-- Frontend -->
   <img
@@ -93,7 +86,7 @@
     style="margin:5px;"
   />
 
-  <br /><br />
+  <br><br>
 
   <!-- Backend -->
   <img
@@ -107,7 +100,7 @@
     style="margin:5px;"
   />
 
-  <br /><br />
+  <br><br>
 
   <!-- Database -->
   <img
@@ -116,7 +109,7 @@
     style="margin:5px;"
   />
 
-  <br /><br />
+  <br><br>
 
   <!-- Tools & Platforms -->
   <img
