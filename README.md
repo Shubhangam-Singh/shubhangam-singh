@@ -88,10 +88,41 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhangam-singh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangam-singh&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=shubhangam-singh&theme=tokyonight" alt="Streak Stats" />
+  <!-- GitHub overall stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shubhangam-singh
+         &show_icons=true
+         &theme=tokyonight
+         &include_all_commits=true
+         &count_private=true
+         &hide_border=true
+         &cache_seconds=3600"
+    alt="Shubhangam’s GitHub Stats"
+    width="48%"
+  />
+
+  <!-- Top languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangam-singh
+         &layout=compact
+         &theme=tokyonight
+         &hide_border=true
+         &cache_seconds=3600"
+    alt="Shubhangam’s Top Languages"
+    width="30%"
+  />
+
+  <!-- Streak stats (via Demolab mirror) -->
+  <img
+    src="https://streak-stats.demolab.com?user=shubhangam-singh
+         &theme=tokyonight
+         &hide_border=true
+         &cache_seconds=3600"
+    alt="Shubhangam’s GitHub Streak"
+    width="18%"
+  />
 </p>
+
 
 ---
 
