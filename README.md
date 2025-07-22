@@ -23,14 +23,14 @@
 
 ## 🚀 Quick Facts
 
-- 🌱 I currently know **Python**, **C**, **C++**, **Java**, **HTML**, **CSS**, **JavaScript**  
+- 🌱 I currently know **Python**, **C**, **C++**, **Java**, **HTML**, **CSS**, **JavaScript**, **Solidity**
 - 🧠 Always exploring new languages & frameworks  
 - 💻 Interests: **Web Development**, **Data Science**, **Blockchain**  
 - 📫 Reach me: [shubhangam2005singh@gmail.com](mailto:shubhangam2005singh@gmail.com)  
-- ⚡ Fun fact: I’m an **ambivert** honing my communication skills  
+- ⚡ Fun fact: I’m a bit introverted—fuelled by quiet focus and deep problem‑solving sessions. 
 
 ---
-<!-- 🌈 Badge Header in place of typing animation -->
+<!-- 🌈 Badge Header-->
 <p align="center">
   <img
     src="https://img.shields.io/badge/🔧%20Tech%20Stack%20%26%20Tools-Ready%20to%20Rock-6a11cb?style=for-the-badge&logo=tools&logoColor=white"
@@ -49,28 +49,29 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"    alt="HTML5" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"      alt="CSS3" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" style="margin:5px;"/>
 
-  <br/><br/>
+  <br/>
 
   <!-- 🌐 Frontend Development -->
   <h3>🌐 Frontend Development</h3>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" style="margin:5px;"/>
 
-  <br/><br/>
+  <br/>
 
   <!-- 🧠 Backend Development -->
   <h3>🧠 Backend Development</h3>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="margin:5px;"/>
 
-  <br/><br/>
+  <br/>
 
   <!-- 🗄️ Databases -->
   <h3>🗄️ Databases</h3>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin:5px;"/>
 
-  <br/><br/>
+  <br/>
 
   <!-- 🛠️ Tools & Platforms -->
   <h3>🛠️ Tools & Platforms</h3>
