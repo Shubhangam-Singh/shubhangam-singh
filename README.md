@@ -149,14 +149,33 @@
 ## 📱 Socials
 
 <p align="center">
+  <a href="mailto:shubhangam2005singh@gmail.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Email-shubhangam2005singh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+      style="margin:5px;"
+    />
+  </a>
   <a href="https://instagram.com/shubhixion" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@shubhixion-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img
+      src="https://img.shields.io/badge/Instagram-@shubhixion-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+      style="margin:5px;"
+    />
   </a>
   <a href="https://www.linkedin.com/in/shubhangam2005singh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-shubhangam2005singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-shubhangam2005singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      style="margin:5px;"
+    />
   </a>
   <a href="https://x.com/Shubhangam28" target="_blank">
-    <img src="https://img.shields.io/badge/X-@Shubhangam28-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
+    <img
+      src="https://img.shields.io/badge/X-@Shubhangam28-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+      alt="X"
+      style="margin:5px;"
+    />
   </a>
 </p>
 
