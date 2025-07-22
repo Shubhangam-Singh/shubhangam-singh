@@ -90,28 +90,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhangam-singh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangam-singh&layout=compact&theme=tokyonight" alt="Top Languages" />
- <img
-  src="https://streak-stats.demolab.com/?user=shubhangam-singh
-       &theme=tokyonight
-       &hide_border=true
-       &cache_seconds=3600"
-  alt="Streak Stats"
-/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangam-singh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</p>
-
-
-
-
-  <!-- Streak stats (via Demolab mirror) -->
-  <img
-    src="https://streak-stats.demolab.com/?user=Shubhangam-Singh
-         &theme=tokyonight
-         &hide_border=true
-         &cache_seconds=3600"
-    alt="Shubhangam’s GitHub Streak"
-    width="20%"
-  />
 </p>
 
 
