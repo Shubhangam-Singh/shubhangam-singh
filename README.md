@@ -32,7 +32,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 👨‍💻 Programming Languages
