@@ -90,7 +90,7 @@
 <p align="center">
   <!-- GitHub overall stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shubhangam-singh
+    src="https://github-readme-stats.vercel.app/api?username=Shubhangam-Singh
          &show_icons=true
          &theme=tokyonight
          &include_all_commits=true
@@ -98,12 +98,12 @@
          &hide_border=true
          &cache_seconds=3600"
     alt="Shubhangam’s GitHub Stats"
-    width="48%"
+    width="45%"
   />
 
   <!-- Top languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangam-singh
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhangam-Singh
          &layout=compact
          &theme=tokyonight
          &hide_border=true
@@ -114,14 +114,15 @@
 
   <!-- Streak stats (via Demolab mirror) -->
   <img
-    src="https://streak-stats.demolab.com?user=shubhangam-singh
+    src="https://streak-stats.demolab.com/?user=Shubhangam-Singh
          &theme=tokyonight
          &hide_border=true
          &cache_seconds=3600"
     alt="Shubhangam’s GitHub Streak"
-    width="18%"
+    width="20%"
   />
 </p>
+
 
 
 ---
