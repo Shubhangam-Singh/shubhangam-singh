@@ -1,6 +1,6 @@
 # 👋 About Me
 
-<p align="center">
+<p align="center>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="👋 Wave" width="50"/>
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" />
 </p>
@@ -33,7 +33,7 @@
 
 <!-- 🔧 Tech Stack & Tools -->
 
-<h2 align="center" style="
+<h2 style="
   background: linear-gradient(90deg, #6a11cb, #2575fc);
   -webkit-background-clip: text;
   color: transparent;
@@ -74,7 +74,7 @@
     alt="JavaScript" style="margin:5px;"
   />
 
-  <br><br>
+  <br>
 
   <!-- 🌐 Frontend Development -->
   <h3 align="center">🌐 Frontend Development</h3>
@@ -87,7 +87,7 @@
     alt="TailwindCSS" style="margin:5px;"
   />
 
-  <br><br>
+  <br>
 
   <!-- 🧠 Backend Development -->
   <h3 align="center">🧠 Backend Development</h3>
@@ -100,7 +100,7 @@
     alt="Flask" style="margin:5px;"
   />
 
-  <br><br>
+  <br>
 
   <!-- 🗄️ Databases -->
   <h3 align="center">🗄️ Databases</h3>
@@ -109,7 +109,7 @@
     alt="MySQL" style="margin:5px;"
   />
 
-  <br><br>
+  <br>
 
   <!-- 🛠️ Tools & Platforms -->
   <h3 align="center">🛠️ Tools & Platforms</h3>
