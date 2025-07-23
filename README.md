@@ -94,13 +94,12 @@
 <br>
 <img src="https://github-readme
 -stats.vercel.app/api?username=
-Shubhangam-Singh&theme=chartreuse-dark&
+graphicmismatch&theme=chartreuse-dark&
 show_icons=true&hide_border=true&count
 _private=true"
-alt="Shubhangam Singh's GitHub Stats"/>
+alt="graphicmismatch's GitHub Stats"/>
 </details>
 <details>
-summary- Copied
 
 
 ---
