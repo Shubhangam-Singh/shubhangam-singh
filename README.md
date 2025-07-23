@@ -114,4 +114,4 @@
 
 ---
 
-> 🧑‍💻 _Thanks for stopping by—hope this splash of motion and color helps you stand out!_  
+> 🧑‍💻 _Thanks for stopping by — feel free to dive into my repos!_  
