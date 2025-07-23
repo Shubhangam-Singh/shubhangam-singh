@@ -90,13 +90,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhangam-singh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangam-singh&layout=compact&theme=tokyonight" alt="Top Languages" />
- ## 🔥 Streak Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangam2005singh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-</p>
 
 
 
