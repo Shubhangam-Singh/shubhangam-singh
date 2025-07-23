@@ -1,4 +1,4 @@
-9## 👋 About Me
+## 👋 About Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="👋 Wave" width="50"/>
@@ -92,14 +92,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangam-singh&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 
-    </details>
-    <details>
+    
       <summary> <b> Stats </b></summary>
       <br>
       <img src="https://github-readme-stats.vercel.app/api?username=graphicmismatch&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"
 alt="graphicmismatch's GitHub Stats"/>
-    </details>
-    <details>
 ---
 
 ## 📱 Socials
