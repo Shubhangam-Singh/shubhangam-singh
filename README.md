@@ -90,13 +90,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhangam-singh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangam-singh&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-
-    
-      <summary> <b> Stats </b></summary>
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=graphicmismatch&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"
-alt="graphicmismatch's GitHub Stats"/>
 ---
 
 ## 📱 Socials
