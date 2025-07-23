@@ -1,4 +1,4 @@
-# 👋 About Me
+9# 👋 About Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="👋 Wave" width="50"/>
@@ -86,10 +86,19 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhangam-singh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangam-singh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://www.google.com/search?q=https://github.com/shubhangam-singh">
+    <img src="https://github-readme-stats.vercel.app/api?username=shubhangam-singh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Shubhangam's GitHub Stats" />
+  </a>
+  <a href="https://www.google.com/search?q=https://github.com/shubhangam-singh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangam-singh&layout=compact&theme=tokyonight" alt="Shubhangam's Top Languages" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.google.com/search?q=https://github.com/shubhangam-singh">
+    <img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3Dshubhangam-singh%26theme%3Dtokyonight" alt="Shubhangam's Contribution Streak" />
+  </a>
+</p>
 
 
 
