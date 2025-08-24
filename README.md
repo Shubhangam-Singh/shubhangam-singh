@@ -317,11 +317,13 @@ Physics simulation for oscillatory motion
 
 <img src="https://komarev.com/ghpvc/?username=shubhangam-singh&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 
-**⭐ Don't forget to star my repositories if you find them interesting!**
+
 
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="👋 Wave" width="50"/>
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" />
 </p>
+
+
+**⭐ Don't forget to star my repositories if you find them interesting!**
