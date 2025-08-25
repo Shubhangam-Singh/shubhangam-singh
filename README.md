@@ -194,7 +194,7 @@
 
 ### 🚗 Parking Lot Management System
 Smart parking solution with real-time tracking
-- **Tech:** Java, Spring Boot, MySQL
+- **Tech:** C/C++
 - **Features:** Real-time monitoring, automated billing
 - [**🔗 View Project**](https://github.com/Shubhangam-Singh/Parking-Lot-Management-Project)
 
@@ -214,7 +214,7 @@ AI-powered logo detection system
 
 ### 📦 Logitrack System
 Comprehensive logistics tracking platform
-- **Tech:** React, Node.js, MongoDB
+- **Tech:** Python, MongoDB
 - **Features:** Real-time tracking, analytics dashboard
 - [**🔗 View Project**](https://github.com/Shubhangam-Singh/logitrack-system)
 
@@ -223,7 +223,7 @@ Comprehensive logistics tracking platform
 
 ### 🌊 Oscillatory System
 Physics simulation for oscillatory motion
-- **Tech:** Python, Matplotlib, NumPy, SciPy
+- **Tech:** HTML/CSS/JS
 - **Features:** Interactive visualizations, parameter control
 - [**🔗 View Project**](https://github.com/Shubhangam-Singh/Oscillatory-System)
 
