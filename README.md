@@ -35,7 +35,7 @@
 
 - 🌱 Currently mastering **React.js**, **Node.js**, and **Full Stack Development**
 - 🔭 Working on exciting **Web3** and **Blockchain** projects
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://shubhangam-singh.github.io/shubhangam-resume/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://shubhangam-resume.vercel.app/)**
 - 💬 Ask me about **Python**, **JavaScript**, **React**, **Solidity**
 - 📫 How to reach me: **[shubhangam2005singh@gmail.com](mailto:shubhangam2005singh@gmail.com)**
 - ⚡ Fun fact: **I turn coffee into code and bugs into features!** ☕→💻
