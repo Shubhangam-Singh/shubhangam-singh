@@ -211,11 +211,11 @@ AI-powered logo detection system
 <tr>
 <td width="50%">
 
-### 📦 Logitrack System
-Comprehensive logistics tracking platform
-- **Tech:** Python, MongoDB
-- **Features:** Real-time tracking, analytics dashboard
-- [**🔗 View Project**](https://github.com/Shubhangam-Singh/logitrack-system)
+### 🍕 Foodie Express
+Full-stack food delivery web application
+- **Tech:** React, Node.js, MongoDB, Stripe
+- **Features:** Online ordering, payment integration, admin panel
+- [**🔗 View Project**](https://github.com/Shubhangam-Singh/foodie-express) | [**🚀 Live Demo**](https://foodie-express-frontend-gamma.vercel.app/)
 
 </td>
 <td width="50%">
