@@ -31,18 +31,37 @@
 
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>-->
 <!-- Responsive GIF -->
+<!-- MP4-based embed using Giphy's MP4 (play/pause available) -->
 <style>
-  .gif-wrap { max-width: 640px; width: 100%; margin: 0 auto; }
-  .gif-wrap img { width: 100%; height: auto; display: block; border-radius: 8px; }
+  .video-wrap { max-width: 640px; width: 100%; margin: 0 auto; border-radius: 8px; overflow: hidden; }
+  .video-wrap video { width: 100%; display: block; }
 </style>
 
-<div class="gif-wrap" aria-hidden="false">
-  <img
-    src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif"
-    alt="Programmer coding animation - PizzaNinjas"
-    width="640" height="240"
-  />
+<div class="video-wrap">
+  <video id="codingVid" playsinline loop muted autoplay>
+    <source src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.mp4" type="video/mp4">
+    <!-- fallback to gif -->
+    <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programmer coding animation">
+  </video>
+
+  <!-- small JS for toggle -->
+  <div style="text-align:center; margin-top:8px;">
+    <button id="playToggle">Pause</button>
+  </div>
 </div>
+
+<script>
+  const vid = document.getElementById('codingVid');
+  const btn = document.getElementById('playToggle');
+  btn.addEventListener('click', () => {
+    if (vid.paused) {
+      vid.play(); btn.textContent = 'Pause';
+    } else {
+      vid.pause(); btn.textContent = 'Play';
+    }
+  });
+</script>
+
 
 
 
