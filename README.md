@@ -30,7 +30,20 @@
 ## 🚀 About Me
 
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>-->
-![Coding](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
+<!-- Responsive GIF -->
+<style>
+  .gif-wrap { max-width: 640px; width: 100%; margin: 0 auto; }
+  .gif-wrap img { width: 100%; height: auto; display: block; border-radius: 8px; }
+</style>
+
+<div class="gif-wrap" aria-hidden="false">
+  <img
+    src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif"
+    alt="Programmer coding animation - PizzaNinjas"
+    width="640" height="240"
+  />
+</div>
+
 
 
 </div>
