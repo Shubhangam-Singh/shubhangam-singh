@@ -29,8 +29,8 @@
 
 ## 🚀 About Me
 
-<!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>-->
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil"/>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 
 - 🌱 Currently mastering **React.js**, **Node.js**, and **Full Stack Development**
 - 🔭 Working on exciting **Web3** and **Blockchain** projects
