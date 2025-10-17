@@ -30,42 +30,7 @@
 ## 🚀 About Me
 
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>-->
-<!-- Responsive GIF -->
-<!-- MP4-based embed using Giphy's MP4 (play/pause available) -->
-<style>
-  .video-wrap { max-width: 640px; width: 100%; margin: 0 auto; border-radius: 8px; overflow: hidden; }
-  .video-wrap video { width: 100%; display: block; }
-</style>
-
-<div class="video-wrap">
-  <video id="codingVid" playsinline loop muted autoplay>
-    <source src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.mp4" type="video/mp4">
-    <!-- fallback to gif -->
-    <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programmer coding animation">
-  </video>
-
-  <!-- small JS for toggle -->
-  <div style="text-align:center; margin-top:8px;">
-    <button id="playToggle">Pause</button>
-  </div>
-</div>
-
-<script>
-  const vid = document.getElementById('codingVid');
-  const btn = document.getElementById('playToggle');
-  btn.addEventListener('click', () => {
-    if (vid.paused) {
-      vid.play(); btn.textContent = 'Pause';
-    } else {
-      vid.pause(); btn.textContent = 'Play';
-    }
-  });
-</script>
-
-
-
-
-</div>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil"/>
 
 - 🌱 Currently mastering **React.js**, **Node.js**, and **Full Stack Development**
 - 🔭 Working on exciting **Web3** and **Blockchain** projects
