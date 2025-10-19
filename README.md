@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there%2C+I'm+Shubhangam+%F0%9F%91%8B;Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
-
+<br>
 <!-- Wave GIF -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="👋 Wave" width="50"/>
