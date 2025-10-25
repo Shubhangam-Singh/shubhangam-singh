@@ -14,14 +14,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="👋 Wave" width="50"/>
 </div>
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhangam-singh&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/shubhangam-singh?style=for-the-badge&color=blue&labelColor=1c1917" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/shubhangam-singh?style=for-the-badge&color=yellow&labelColor=1c1917" alt="GitHub stars"/>
-</div>
 
-<br/>
 
 <!-- About Me Section -->
 <div align="center">
@@ -314,10 +307,14 @@ Physics simulation for oscillatory motion
 
 ### 💖 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=shubhangam-singh&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhangam-singh&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/shubhangam-singh?style=for-the-badge&color=blue&labelColor=1c1917" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/shubhangam-singh?style=for-the-badge&color=yellow&labelColor=1c1917" alt="GitHub stars"/>
+</div>
 
-
-
+<br/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" />
