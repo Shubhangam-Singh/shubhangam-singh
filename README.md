@@ -170,13 +170,18 @@
 
 ## 📊 GitHub Statistics
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=shubhangam-singh&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangam-singh&theme=react&hide_border=true&background=1F222E&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhangam-singh&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangam-singh&theme=react&hide_border=true&background=1F222E&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+</p>
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangam-singh&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-<img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhangam-singh&theme=react-dark&hide_border=true&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" alt="Activity Graph"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangam-singh&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhangam-singh&theme=react-dark&hide_border=true&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" alt="Activity Graph"/>
+</p>
 
 </div>
+
 
 ---
 
