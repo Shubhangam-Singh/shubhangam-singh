@@ -4,7 +4,7 @@
 <!--                        ANIMATED HEADER                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=220&section=header&text=Shubhangam%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20%E2%80%A2%20Blockchain%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=52&descSize=18&descAlign=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=220&section=header&text=Shubhangam%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Developer%20%E2%80%A2%20Blockchain%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=52&descSize=18&descAlign=50&animation=fadeIn"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there%2C+welcome+to+my+GitHub!;%F0%9F%9A%80+Building+cool+stuff+with+code;%E2%9B%93+Exploring+the+decentralized+web;%F0%9F%A7%A0+Solving+problems%2C+one+commit+at+a+time" alt="Typing SVG" />
@@ -205,21 +205,7 @@ interests:
 
 <br/>
 
-<div align="center">
 
-| 🍕 **Foodie Express** | 🎯 **YOLO Logo Detection** |
-|:---:|:---:|
-| Full-stack food delivery with Stripe payments & admin dashboard | AI-powered real-time logo detection with custom YOLO models |
-| `React` `Node.js` `MongoDB` `Stripe` | `Python` `YOLO` `OpenCV` `TensorFlow` |
-| [🔗 Repo](https://github.com/Shubhangam-Singh/foodie-express) · [🚀 Live](https://foodie-express-frontend-gamma.vercel.app/) | [🔗 Repo](https://github.com/Shubhangam-Singh/Yolo_Logo_Detection) |
-
-| 🚗 **Parking Lot Management** | 🌊 **Oscillatory System** |
-|:---:|:---:|
-| Smart parking with real-time tracking & automated billing | Interactive physics simulation with parameter controls |
-| `C` `C++` | `HTML` `CSS` `JavaScript` |
-| [🔗 Repo](https://github.com/Shubhangam-Singh/Parking-Lot-Management-Project) | [🔗 Repo](https://github.com/Shubhangam-Singh/Oscillatory-System) |
-
-</div>
 
 <br/>
 
