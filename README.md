@@ -1,327 +1,358 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,12,20&height=180&section=header&text=Shubhangam%20Singh&fontSize=42&fontAlignY=32&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ANIMATED HEADER                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=220&section=header&text=Shubhangam%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20%E2%80%A2%20Blockchain%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=52&descSize=18&descAlign=50&animation=fadeIn"/>
 
 <!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there%2C+I'm+Shubhangam+%F0%9F%91%8B;Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there%2C+welcome+to+my+GitHub!;%F0%9F%9A%80+Building+cool+stuff+with+code;%E2%9B%93+Exploring+the+decentralized+web;%F0%9F%A7%A0+Solving+problems%2C+one+commit+at+a+time" alt="Typing SVG" />
+
+<br/>
+
+<!-- Quick Links -->
+<a href="https://shubhangam-resume.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>&nbsp;
+<a href="mailto:shubhangam2005singh@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/shubhangam2005singh/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://x.com/Shubhangam28">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
-<!-- Wave GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="👋 Wave" width="50"/>
-</div>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          ABOUT ME                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-<!-- About Me Section -->
-<div align="center">
+<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-## 🚀 About Me
+```yaml
+name: Shubhangam Singh
+location: VIT Vellore, India
+current_focus:
+  - React.js & Node.js
+  - Full Stack Development
+  - Blockchain & Web3
+interests:
+  - Building real-world applications
+  - Competitive programming
+  - Open source contributions
+```
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-
-- 🌱 Currently mastering **React.js**, **Node.js**, and **Full Stack Development**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://shubhangam-resume.vercel.app/)**
-- 💬 Ask me about **Python**, **JavaScript**, **React**
-- 📫 How to reach me: **[shubhangam2005singh@gmail.com](mailto:shubhangam2005singh@gmail.com)**
+- 🔭 &nbsp;Currently building **full-stack apps** and **smart contracts**
+- 🌱 &nbsp;Deep-diving into **React.js**, **Node.js**, and **Solidity**
+- 🏆 &nbsp;Solving problems on **Codeforces**, **LeetCode**, and **CodeChef**
+- 💬 &nbsp;Ask me about **Python**, **JavaScript**, **React**, or **Blockchain**
+- 📫 &nbsp;Reach me at **[shubhangam2005singh@gmail.com](mailto:shubhangam2005singh@gmail.com)**
+- 🌐 &nbsp;Check out my work at **[My Portfolio](https://shubhangam-resume.vercel.app/)**
 
 <br clear="right"/>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<!-- Tech Stack Section -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         TECH STACK                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### ⚡ Languages
 
-## 💻 Tech Stack & Tools
+<br/>
 
-### 🌟 Languages & Frameworks
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.python.org">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.java.com">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60" height="60"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.cprogramming.com/">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60"/>
+</a>&nbsp;&nbsp;
+<a href="https://soliditylang.org/">
+  <img src="https://skillicons.dev/icons?i=solidity" width="52" height="52" alt="Solidity"/>
+</a>
 
-<table>
-<tr>
-    <td align="center" width="96">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        </a>
-        <br>React
-    </td>
-    <td align="center" width="96">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        </a>
-        <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        </a>
-        <br>Python
-    </td>
-    <td align="center" width="96">
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-        </a>
-        <br>Java
-    </td>
-    <td align="center" width="96">
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-        </a>
-        <br>C++
-    </td>
-    <td align="center" width="96">
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
-        </a>
-        <br>Node.js
-    </td>
-</tr>
-</table>
+<br/><br/>
 
-### 🎨 Frontend Technologies
+### 🎨 Frontend
 
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://reactjs.org/">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60"/>
+</a>&nbsp;&nbsp;
+<a href="https://vitejs.dev/">
+  <img src="https://skillicons.dev/icons?i=vite" width="52" height="52" alt="Vite"/>
+</a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="52" height="52" alt="TailwindCSS"/>
+</a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html" width="52" height="52" alt="HTML5"/>
+</a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css" width="52" height="52" alt="CSS3"/>
+</a>
+
+<br/><br/>
 
 ### ⚙️ Backend & Database
 
-<p align="center">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </a>
-</p>
+<br/>
 
-### 🛠️ Tools & Platforms
+<a href="https://nodejs.org/">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="52" height="52" alt="Node.js"/>
+</a>&nbsp;&nbsp;
+<a href="https://flask.palletsprojects.com/">
+  <img src="https://skillicons.dev/icons?i=flask" width="52" height="52" alt="Flask"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="52" height="52" alt="MongoDB"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/">
+  <img src="https://skillicons.dev/icons?i=mysql" width="52" height="52" alt="MySQL"/>
+</a>
 
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  </a>
-  <a href="https://solana.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Solana-00FFA3?style=for-the-badge&logo=Solana&logoColor=black" alt="Solana"/>
-  </a>
-</p>
+<br/><br/>
 
 ### ⛓️ Blockchain & Web3
 
-<p align="center">
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  </a>
-  <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
-  </a>
-  <a href="https://web3js.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
-  </a>
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
 </p>
 
-</div>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🛠️ Tools & Platforms
 
----
+<br/>
 
-<!-- GitHub Stats Section -->
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhangam-singh&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangam-singh&theme=react&hide_border=true&background=1F222E&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangam-singh&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhangam-singh&theme=react-dark&hide_border=true&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" alt="Activity Graph"/>
-</p>
-
-</div>
-
-
----
-
-<!-- Projects Section -->
-<div align="center">
-
-## 🏆 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚗 Parking Lot Management System
-Smart parking solution with real-time tracking
-- **Tech:** C/C++
-- **Features:** Real-time monitoring, automated billing
-- [**🔗 View Project**](https://github.com/Shubhangam-Singh/Parking-Lot-Management-Project)
-
-</td>
-<td width="50%">
-
-### 🎯 YOLO Logo Detection
-AI-powered logo detection system
-- **Tech:** Python, YOLO, OpenCV, TensorFlow
-- **Features:** Real-time detection, custom training
-- [**🔗 View Project**](https://github.com/Shubhangam-Singh/Yolo_Logo_Detection)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🍕 Foodie Express
-Full-stack food delivery web application
-- **Tech:** React, Node.js, MongoDB, Stripe
-- **Features:** Online ordering, payment integration, admin panel
-- [**🔗 View Project**](https://github.com/Shubhangam-Singh/foodie-express) | [**🚀 Live Demo**](https://foodie-express-frontend-gamma.vercel.app/)
-
-</td>
-<td width="50%">
-
-### 🌊 Oscillatory System
-Physics simulation for oscillatory motion
-- **Tech:** HTML/CSS/JS
-- **Features:** Interactive visualizations, parameter control
-- [**🔗 View Project**](https://github.com/Shubhangam-Singh/Oscillatory-System)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- Coding Profiles Section -->
-<div align="center">
-
-## 🏅 Coding Profiles
-
-<a href="https://codeforces.com/profile/Shubhangam_Singh" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
-</a>
-<a href="https://leetcode.com/shubhangam_singh/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
-</a>
-<a href="https://www.codechef.com/users/shubhangam05" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
-</a>
-<a href="https://www.hackerrank.com/shubhangam2005si1" target="_blank">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github" width="52" height="52" alt="GitHub"/>
+</a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VS Code"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linux.org/">
+  <img src="https://skillicons.dev/icons?i=linux" width="52" height="52" alt="Linux"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.docker.com/">
+  <img src="https://skillicons.dev/icons?i=docker" width="52" height="52" alt="Docker"/>
 </a>
 
-</div>
-
----
-
-<!-- Connect with Me Section -->
-<div align="center">
-
-## 🤝 Connect With Me
-
-<a href="mailto:shubhangam2005singh@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/shubhangam2005singh/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/Shubhangam28" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="https://instagram.com/shubhixion" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://discord.com/users/shubhangam2005" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
-</div>
-
----
-<!-- Contribution Snake -->
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<div>
-  <img src="https://raw.githubusercontent.com/shubhangam-singh/shubhangam-singh/output/snake.svg" alt="Snake animation" />
-</div>
-
-</div>
-
-
----
-
-<!-- Random Dev Quote -->
-<div align="center">
-
-## 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-
-
-
-### 💖 Thanks for visiting my profile!
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhangam-singh&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/shubhangam-singh?style=for-the-badge&color=blue&labelColor=1c1917" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/shubhangam-singh?style=for-the-badge&color=yellow&labelColor=1c1917" alt="GitHub stars"/>
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" />
-</p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      FEATURED PROJECTS                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-**⭐ Don't forget to star my repositories if you find them interesting!**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<div align="center">
+
+<a href="https://github.com/Shubhangam-Singh/foodie-express">
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shubhangam-Singh&repo=foodie-express&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Shubhangam-Singh/Yolo_Logo_Detection">
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shubhangam-Singh&repo=Yolo_Logo_Detection&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Shubhangam-Singh/Parking-Lot-Management-Project">
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shubhangam-Singh&repo=Parking-Lot-Management-Project&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Shubhangam-Singh/Oscillatory-System">
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shubhangam-Singh&repo=Oscillatory-System&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🍕 **Foodie Express** | 🎯 **YOLO Logo Detection** |
+|:---:|:---:|
+| Full-stack food delivery with Stripe payments & admin dashboard | AI-powered real-time logo detection with custom YOLO models |
+| `React` `Node.js` `MongoDB` `Stripe` | `Python` `YOLO` `OpenCV` `TensorFlow` |
+| [🔗 Repo](https://github.com/Shubhangam-Singh/foodie-express) · [🚀 Live](https://foodie-express-frontend-gamma.vercel.app/) | [🔗 Repo](https://github.com/Shubhangam-Singh/Yolo_Logo_Detection) |
+
+| 🚗 **Parking Lot Management** | 🌊 **Oscillatory System** |
+|:---:|:---:|
+| Smart parking with real-time tracking & automated billing | Interactive physics simulation with parameter controls |
+| `C` `C++` | `HTML` `CSS` `JavaScript` |
+| [🔗 Repo](https://github.com/Shubhangam-Singh/Parking-Lot-Management-Project) | [🔗 Repo](https://github.com/Shubhangam-Singh/Oscillatory-System) |
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB STATS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shubhangam-Singh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Shubhangam-Singh&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=A855F7&fire=F97316&currStreakLabel=A855F7&sideLabels=C9D1D9&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=6B7280" alt="GitHub Streak"/>
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shubhangam-Singh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhangam-Singh&theme=react-dark&hide_border=true&bg_color=0d1117&color=a855f7&line=6366f1&point=FFFFFF&area=true&area_color=6366f1" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shubhangam-Singh&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    COMPETITIVE PROGRAMMING                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏅 Competitive Programming
+
+<div align="center">
+
+<a href="https://codeforces.com/profile/Shubhangam_Singh">
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+</a>&nbsp;
+<a href="https://leetcode.com/u/shubhangam_singh/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+</a>&nbsp;
+<a href="https://www.codechef.com/users/shubhangam05">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
+</a>&nbsp;
+<a href="https://www.hackerrank.com/profile/shubhangam2005si1">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CONTRIBUTION SNAKE                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhangam-singh/shubhangam-singh/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhangam-singh/shubhangam-singh/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/shubhangam-singh/shubhangam-singh/output/snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CONNECT WITH ME                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Connect
+
+<div align="center">
+
+*Whether you want to collaborate on a project, geek out about blockchain, or just say hi — I'm always up for it.*
+
+<br/>
+
+<a href="mailto:shubhangam2005singh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/shubhangam2005singh/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://x.com/Shubhangam28">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>&nbsp;
+<a href="https://instagram.com/shubhixion">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>&nbsp;
+<a href="https://discord.com/users/shubhangam2005">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+<br/><br/>
+
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=shubhangam-singh&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<a href="https://github.com/shubhangam-singh?tab=followers">
+  <img src="https://img.shields.io/github/followers/shubhangam-singh?style=for-the-badge&color=a855f7&labelColor=1c1917&label=FOLLOWERS" alt="Followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/shubhangam-singh?tab=repositories">
+  <img src="https://img.shields.io/github/stars/shubhangam-singh?style=for-the-badge&color=f97316&labelColor=1c1917&label=TOTAL+STARS" alt="Stars"/>
+</a>
+
+<br/><br/>
+
+### ⭐ If something catches your eye, don't forget to star it!
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=120&section=footer"/>
+
 </div>
