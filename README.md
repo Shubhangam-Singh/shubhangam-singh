@@ -234,7 +234,7 @@ interests:
 <br/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shubhangam-Singh&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhangam-singh&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
 <br/>
