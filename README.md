@@ -12,7 +12,7 @@
 <br/>
 
 <!-- Quick Links -->
-<a href="https://shubhangam-resume.vercel.app/">
+<a href="https://shsi-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>&nbsp;
 <a href="mailto:shubhangam2005singh@gmail.com">
