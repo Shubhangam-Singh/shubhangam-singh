@@ -57,7 +57,7 @@ interests:
 - 🏆 &nbsp;Solving problems on **Codeforces**, **LeetCode**, and **CodeChef**
 - 💬 &nbsp;Ask me about **Python**, **JavaScript**, **React**, or **Blockchain**
 - 📫 &nbsp;Reach me at **[shubhangam2005singh@gmail.com](mailto:shubhangam2005singh@gmail.com)**
-- 🌐 &nbsp;Check out my work at **[My Portfolio](https://shubhangam-resume.vercel.app/)**
+- 🌐 &nbsp;Check out my work at **[My Portfolio](https://shsi-portfolio.vercel.app/)**
 
 <br clear="right"/>
 
