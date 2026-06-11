@@ -4,10 +4,12 @@
 <!--                        ANIMATED HEADER                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=220&section=header&text=Shubhangam%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Developer%20%E2%80%A2%20Blockchain%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=52&descSize=18&descAlign=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:6366f1,70:a855f7,100:f97316&height=240&section=header&text=Shubhangam%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%A2%20Blockchain%20Builder%20%E2%80%A2%&descAlignY=54&descSize=17&descAlign=50&animation=fadeIn"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there%2C+welcome+to+my+GitHub!;%F0%9F%9A%80+Building+cool+stuff+with+code;%E2%9B%93+Exploring+the+decentralized+web;%F0%9F%A7%A0+Solving+problems%2C+one+commit+at+a+time" alt="Typing SVG" />
+<a href="https://github.com/Shubhangam-Singh">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Shubhangam+%E2%80%94+welcome+aboard!;%F0%9F%9A%80+I+ship+full-stack+apps+%26+smart+contracts;%F0%9F%93%9C+Patent-filed+IoT+inventor+(PPSC+Smart+Cart);%E2%9B%93+Exploring+the+decentralized+web%2C+one+block+at+a+time;%F0%9F%A7%A0+CGPA+9.02+%40+VIT+Vellore+%E2%80%A2+CSE+'27" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -27,6 +29,15 @@
 
 <br/><br/>
 
+<!-- Snapshot badges -->
+<img src="https://img.shields.io/badge/📜_Indian_Patent-Filed_@_IPO_Chennai-F97316?style=flat-square&labelColor=1c1917" alt="Patent"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎓_VIT_Vellore-CSE_'27_•_CGPA_9.02-A855F7?style=flat-square&labelColor=1c1917" alt="VIT"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🏆_KVPY_SA-AIR_731-6366F1?style=flat-square&labelColor=1c1917" alt="KVPY"/>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
@@ -39,27 +50,116 @@
 
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-```yaml
-name: Shubhangam Singh
-location: VIT Vellore, India
-current_focus:
-  - React.js & Node.js
-  - Full Stack Development
-  - Blockchain & Web3
-interests:
-  - Building real-world applications
-  - Competitive programming
-  - Open source contributions
+```typescript
+const shubhangam = {
+  location: "VIT Vellore, India 🇮🇳",
+  education: "B.Tech CSE (2023–27) • CGPA 9.02",
+  currentlyBuilding: [
+    "ResumeForge — free, privacy-first resume builder",
+    "ATS Tracer — full ATS platform in ASP.NET Core",
+    "ChillChain — cold-chain simulator (IEEE 2026)",
+  ],
+  patent: "PPSC Smart Cart — IoT spoilage prediction 📜",
+  stack: ["TypeScript", "React/Next.js", "Node.js",
+          "C#/.NET", "Solidity", "ESP32", "AWS"],
+  funFact: "My code runs on browsers, servers,
+            blockchains AND microcontrollers ⚡",
+};
 ```
 
-- 🔭 &nbsp;Currently building **full-stack apps** and **smart contracts**
-- 🌱 &nbsp;Deep-diving into **React.js**, **Node.js**, and **Solidity**
-- 🏆 &nbsp;Solving problems on **Codeforces**, **LeetCode**, and **CodeChef**
-- 💬 &nbsp;Ask me about **Python**, **JavaScript**, **React**, or **Blockchain**
+- 🔭 &nbsp;Shipping **full-stack apps**, **smart contracts**, and **IoT firmware**
+- 📜 &nbsp;Filed an **Indian Patent** for PPSC — an ESP32 smart cart predicting food spoilage with an Adaptive Arrhenius model
+- 🌱 &nbsp;Deep-diving into **DevOps** (Docker, Kubernetes, Jenkins) & **system design**
+- 🏆 &nbsp;Grinding **DSA** on Codeforces, LeetCode & CodeChef for placements
+- 💬 &nbsp;Ask me about **React**, **.NET**, **Blockchain**, or **embedded systems**
 - 📫 &nbsp;Reach me at **[shubhangam2005singh@gmail.com](mailto:shubhangam2005singh@gmail.com)**
-- 🌐 &nbsp;Check out my work at **[My Portfolio](https://www.shubhangamsingh.com/)**
 
 <br clear="right"/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      FEATURED PROJECTS                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 ResumeForge
+**Free, privacy-first, ATS-friendly resume builder**
+
+A genuinely free resume builder in the spirit of ilovepdf — no signup, no paywall, no servers. Upload an existing PDF/DOCX to auto-fill, edit with a live PDF preview, and export polished ATS-safe resumes. **100% client-side: your data never leaves your browser.**
+
+`Next.js` `TypeScript` `Tailwind` `Zustand` `PDF.js` `react-pdf` `shadcn/ui`
+
+<img src="https://img.shields.io/badge/🔒_Privacy_First-0d1117?style=flat-square&color=6366f1"/> <img src="https://img.shields.io/badge/💸_Zero_Cost_Forever-0d1117?style=flat-square&color=a855f7"/> <img src="https://img.shields.io/badge/⚡_100%25_Client_Side-0d1117?style=flat-square&color=f97316"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 ATS Tracer
+**Full-blown Applicant Tracking System**
+
+An end-to-end ATS web platform with intelligent resume parsing — extracting candidate fields (name, contact, skills, experience) from PDF/DOCX using a custom taxonomy-driven parsing engine, plus role-based auth and a real-time recruiter↔candidate chat built on long-polling.
+
+`C#` `ASP.NET Core` `SQL Server` `EF Core` `ASP.NET Identity` `Docker`
+
+<img src="https://img.shields.io/badge/🧠_Custom_Parsing_Engine-0d1117?style=flat-square&color=6366f1"/> <img src="https://img.shields.io/badge/💬_Real--time_Chat-0d1117?style=flat-square&color=a855f7"/> <img src="https://img.shields.io/badge/🐳_Dockerized-0d1117?style=flat-square&color=f97316"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 PPSC Smart Cart &nbsp;<img src="https://img.shields.io/badge/PATENT_FILED-F97316?style=flat-square&labelColor=1c1917"/>
+**IoT food-spoilage prediction system**
+
+Patent-filed (IPO Chennai) ESP32-based smart vendor cart that predicts perishable food freshness in real time using an **Adaptive Arrhenius + EMA model** over live temperature/humidity telemetry.
+
+`ESP32` `C/C++` `IoT Sensors` `Embedded Firmware`
+
+</td>
+<td width="50%" valign="top">
+
+### ❄️ ChillChain
+**Cold-chain supply simulator for smart cities**
+
+Browser-based cold-chain food supply simulation built on the patented PPSC spoilage model — targeting the **2026 IEEE Metaverse Grand Challenge** (Smart Cities track).
+
+`React` `TypeScript` `Simulation` `Digital Twin`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+<a href="https://github.com/Shubhangam-Singh/foodie-express">
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shubhangam-Singh&repo=foodie-express&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Shubhangam-Singh/Yolo_Logo_Detection">
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shubhangam-Singh&repo=Yolo_Logo_Detection&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Shubhangam-Singh/Parking-Lot-Management-Project">
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shubhangam-Singh&repo=Parking-Lot-Management-Project&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Shubhangam-Singh/Oscillatory-System">
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shubhangam-Singh&repo=Oscillatory-System&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<br/>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -69,7 +169,7 @@ interests:
 <!--                         TECH STACK                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
 
 <div align="center">
 
@@ -80,6 +180,9 @@ interests:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60"/>
 </a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60"/>
+</a>&nbsp;&nbsp;
 <a href="https://www.python.org">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60"/>
 </a>&nbsp;&nbsp;
@@ -88,6 +191,9 @@ interests:
 </a>&nbsp;&nbsp;
 <a href="https://www.cprogramming.com/">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60"/>
+</a>&nbsp;&nbsp;
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://skillicons.dev/icons?i=cs" width="52" height="52" alt="C#"/>
 </a>&nbsp;&nbsp;
 <a href="https://soliditylang.org/">
   <img src="https://skillicons.dev/icons?i=solidity" width="52" height="52" alt="Solidity"/>
@@ -101,6 +207,9 @@ interests:
 
 <a href="https://reactjs.org/">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60"/>
+</a>&nbsp;&nbsp;
+<a href="https://nextjs.org/">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="52" height="52" alt="Next.js"/>
 </a>&nbsp;&nbsp;
 <a href="https://vitejs.dev/">
   <img src="https://skillicons.dev/icons?i=vite" width="52" height="52" alt="Vite"/>
@@ -124,6 +233,9 @@ interests:
 <a href="https://nodejs.org/">
   <img src="https://skillicons.dev/icons?i=nodejs" width="52" height="52" alt="Node.js"/>
 </a>&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com/">
+  <img src="https://skillicons.dev/icons?i=dotnet" width="52" height="52" alt=".NET"/>
+</a>&nbsp;&nbsp;
 <a href="https://flask.palletsprojects.com/">
   <img src="https://skillicons.dev/icons?i=flask" width="52" height="52" alt="Flask"/>
 </a>&nbsp;&nbsp;
@@ -132,6 +244,9 @@ interests:
 </a>&nbsp;&nbsp;
 <a href="https://www.mysql.com/">
   <img src="https://skillicons.dev/icons?i=mysql" width="52" height="52" alt="MySQL"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/">
+  <img src="https://skillicons.dev/icons?i=postgres" width="52" height="52" alt="PostgreSQL"/>
 </a>
 
 <br/><br/>
@@ -143,69 +258,41 @@ interests:
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" alt="Hardhat"/>
+  <img src="https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white" alt="Algorand"/>
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/>
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
 </p>
 
 <br/>
 
-### 🛠️ Tools & Platforms
+### ☁️ Cloud, DevOps & Hardware
 
 <br/>
 
+<a href="https://aws.amazon.com/">
+  <img src="https://skillicons.dev/icons?i=aws" width="52" height="52" alt="AWS"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.docker.com/">
+  <img src="https://skillicons.dev/icons?i=docker" width="52" height="52" alt="Docker"/>
+</a>&nbsp;&nbsp;
+<a href="https://kubernetes.io/">
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="52" height="52" alt="Kubernetes"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.jenkins.io/">
+  <img src="https://skillicons.dev/icons?i=jenkins" width="52" height="52" alt="Jenkins"/>
+</a>&nbsp;&nbsp;
 <a href="https://git-scm.com/">
   <img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/">
-  <img src="https://skillicons.dev/icons?i=github" width="52" height="52" alt="GitHub"/>
-</a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/">
-  <img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VS Code"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.linux.org/">
   <img src="https://skillicons.dev/icons?i=linux" width="52" height="52" alt="Linux"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.docker.com/">
-  <img src="https://skillicons.dev/icons?i=docker" width="52" height="52" alt="Docker"/>
+<a href="https://www.arduino.cc/">
+  <img src="https://skillicons.dev/icons?i=arduino" width="52" height="52" alt="ESP32/Arduino"/>
 </a>
 
 </div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      FEATURED PROJECTS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Shubhangam-Singh/foodie-express">
-  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shubhangam-Singh&repo=foodie-express&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Shubhangam-Singh/Yolo_Logo_Detection">
-  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shubhangam-Singh&repo=Yolo_Logo_Detection&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Shubhangam-Singh/Parking-Lot-Management-Project">
-  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shubhangam-Singh&repo=Parking-Lot-Management-Project&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Shubhangam-Singh/Oscillatory-System">
-  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shubhangam-Singh&repo=Oscillatory-System&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br/>
-
-
 
 <br/>
 
@@ -229,8 +316,12 @@ interests:
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shubhangam-Singh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhangam-Singh&theme=react-dark&hide_border=true&bg_color=0d1117&color=a855f7&line=6366f1&point=FFFFFF&area=true&area_color=6366f1" alt="Activity Graph"/>
 
-</div>
+<br/><br/>
 
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Shubhangam-Singh&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=a855f7" alt="GitHub Trophies"/>
+
+</div>
 
 <br/>
 
@@ -242,7 +333,7 @@ interests:
 <!--                    COMPETITIVE PROGRAMMING                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🏅 Competitive Programming
+## 🏅 Competitive Programming & Achievements
 
 <div align="center">
 
@@ -259,6 +350,15 @@ interests:
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank"/>
 </a>
 
+<br/><br/>
+
+| 🏆 | Achievement |
+|:---:|:---|
+| 📜 | **Indian Patent Filed** — PPSC IoT spoilage-prediction system (IPO Chennai) |
+| 🥇 | **KVPY SA 2022** — AIR 731 among 70,000+ candidates |
+| 🎯 | **JEE Mains** — Top percentile among 1.1 million candidates |
+| 🎓 | **CGPA 9.02** — B.Tech CSE, VIT Vellore |
+
 </div>
 
 <br/>
@@ -273,18 +373,14 @@ interests:
 
 ## 🐍 Contribution Snake
 
-<div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/shubhangam-singh/shubhangam-singh/output/snake.svg" alt="Snake animation" />
 </div>
-
-</div>
-
 
 ---
 
 <!-- Random Dev Quote -->
 <div align="center">
-
 
 ## 💭 Random Dev Quote
 
@@ -339,6 +435,6 @@ interests:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:6366f1,70:a855f7,100:f97316&height=120&section=footer"/>
 
 </div>
