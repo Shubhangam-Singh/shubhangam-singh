@@ -8,7 +8,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/Shubhangam-Singh">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Shubhangam+%E2%80%94+welcome+aboard!;%F0%9F%9A%80+I+ship+full-stack+apps+%26+smart+contracts;%F0%9F%93%9C+Patent-filed+IoT+inventor+(PPSC+Smart+Cart);%E2%9B%93+Exploring+the+decentralized+web%2C+one+block+at+a+time;%F0%9F%A7%A0+CGPA+9.02+%40+VIT+Vellore+%E2%80%A2+CSE+'27" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Shubhangam+%E2%80%94+welcome+aboard!;%F0%9F%9A%80+I+ship+full-stack+apps+%26+smart+contracts;%F0%9F%93%9C+Patent-filed+IoT+(PPSC+Smart+Cart)" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,7 +30,7 @@
 <br/><br/>
 
 <!-- Snapshot badges -->
-<img src="https://img.shields.io/badge/📜_Indian_Patent-Filed_@_IPO_Chennai-F97316?style=flat-square&labelColor=1c1917" alt="Patent"/>
+<img src="https://img.shields.io/badge/📜_Indian_Patent-Filed-F97316?style=flat-square&labelColor=1c1917" alt="Patent"/>
 &nbsp;
 <img src="https://img.shields.io/badge/🎓_VIT_Vellore-CSE_'27_•_CGPA_9.02-A855F7?style=flat-square&labelColor=1c1917" alt="VIT"/>
 &nbsp;
@@ -354,9 +354,9 @@ Browser-based cold-chain food supply simulation built on the patented PPSC spoil
 
 | 🏆 | Achievement |
 |:---:|:---|
-| 📜 | **Indian Patent Filed** — PPSC IoT spoilage-prediction system (IPO Chennai) |
+| 📜 | **Indian Patent Filed** — PPSC IoT spoilage-prediction system  |
 | 🥇 | **KVPY SA 2022** — AIR 731 among 70,000+ candidates |
-| 🎯 | **JEE Mains** — Top percentile among 1.1 million candidates |
+| 🎯 | **JEE Mains 2023** — 98.5 percentile among 1.1 million candidates |
 | 🎓 | **CGPA 9.02** — B.Tech CSE, VIT Vellore |
 
 </div>
